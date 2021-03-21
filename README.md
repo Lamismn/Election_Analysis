@@ -12,7 +12,11 @@ The purpose of this analysis is to use Python coding to audit the election resul
 
 The analysis shoud also provide an output text file with this summary
 ## Results
-After using Python to analyze the data provided, the following results were concluded:
+After using Python to analyze the data provided, the following screenshot shows the output concluded:
+
+<img width="296" alt="Capture" src="https://user-images.githubusercontent.com/79733383/111920472-91f4c680-8a65-11eb-82a6-e844b9dc2f72.PNG">
+
+Based on the shown image, the results are as follows:
 1. The total number of votes cast was 369,711 votes
 2. There are three counties in this precinct; Jefferson, Denver & Arapahoe. Their respective number of votes & percentage of turnout is as follows:
    - Jefferson: 38,855 votes, percentage of 10.5% of the total vote count
