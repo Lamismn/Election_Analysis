@@ -12,3 +12,16 @@ The purpose of this analysis is to use Python coding to audit the election resul
 
 The analysis shoud also provide an output text file with this summary
 ## Results
+After using Python to analyze the data provided, the following results were concluded:
+1. The total number of votes cast was 369,711 votes
+2. There are three counties in this precinct; Jefferson, Denver & Arapahoe. Their respective number of votes & percentage of turnout is as follows:
+   - Jefferson: 38,855 votes, percentage of 10.5% of the total vote count
+   - Denver: 306,055 votes, percentage of 82.8% of the total vote count
+   - Arapahoe: 24,801 votes, percentage of 6.7% of the total vote count
+3. The County with the highest turnout is Denver, with a total number of votes of 306,055 votes and a percentage of 82.8% of the total votes cast in the precinct
+4. There are thre candidates in this election; Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Their respective number of votes won and percentages are as follows:
+   - Charles Casper Stockham: Won 85,213 votes, with a percentage of 23.0%  of the total vote count
+   - Diana DeGette: Won 272,892 votes, with a percentage of 73.8% of the total vote count
+   - Raymon Anthony Doane: Won 11,606 votes, with a percentage of 3.1% of thetotal vote count
+6. Based on these results, the winner of this election with a big gap is Diana DeGette, with a total number of votes won of 272,892 & a percentage of 73.8% of the total votes.
+## Summary
